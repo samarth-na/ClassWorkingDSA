@@ -28,7 +28,6 @@ function moons_voting_algo(arr, target) {
   }
   return [-1, -1];
 }
-
 let arr = [1, 2, 3, 4, 5];
 let target = 5;
 console.log(pair_sum_brute_force(arr, target));
